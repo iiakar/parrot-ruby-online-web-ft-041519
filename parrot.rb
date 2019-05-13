@@ -1,17 +1,10 @@
-def phrase (phrase)
- puts "#{phrase}"
-end
-
 
 def parrot (phrase = "Squawk!")
  puts "#{phrase}"
- "Squawk!"
+ "phrase"
 end
 
 
 
-def parrot(string="Squawk!")
-  puts "#{string}"
-  "#{string}"
- 
+
  
